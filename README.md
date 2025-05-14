@@ -1,5 +1,3 @@
-Dưới đây là nội dung đã được format hoàn chỉnh cho file `README.md`, sẵn sàng để commit vào repository:
-
 ```markdown
 # Hệ Thống Nhận Diện Khuôn Mặt / Face Recognition System
 
@@ -83,5 +81,3 @@ pip install torch torchvision torchaudio
 
 ✅ Dự án đã sẵn sàng để phát triển và thử nghiệm hệ thống nhận diện khuôn mặt!
 ```
-
-Nếu bạn muốn mình thay `<repo-url>` và `<project-folder>` bằng giá trị thực tế, cứ gửi thông tin qua nhé!
