@@ -1,4 +1,4 @@
-```markdown
+
 # Hệ Thống Nhận Diện Khuôn Mặt / Face Recognition System
 
 ## 📋 Yêu cầu / Requirements
