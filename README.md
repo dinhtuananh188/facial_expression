@@ -69,8 +69,8 @@ pip install torch torchvision torchaudio
 
 1. Clone repository này:
    ```bash
-   git clone <repo-url>
-   cd <project-folder>
+   git clone https://github.com/dinhtuananh188/facial_expression.git
+   cd facial_expression
    ```
 
 2. Tạo môi trường ảo phù hợp với hệ điều hành của bạn và cài đặt các thư viện như hướng dẫn ở trên.
